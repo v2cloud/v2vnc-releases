@@ -1,1 +1,1 @@
-"# v2vnc auto-upate client" 
+# v2vnc auto-upate client
